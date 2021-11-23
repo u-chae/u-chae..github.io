@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "jun u-chae"
+  avatar           : ""
+  bio              : "student od Sookmyung"
+  location         : "Seoul,South Korea"
+  email            : "ally6952@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
