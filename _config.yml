@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "plum"
+# theme                  : "aqua"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "jun u-chae"
   avatar           : "/assets/icy.jpg"
-  bio              : "student od Sookmyung"
+  bio              : "student of Sookmyung"
   location         : "Seoul,South Korea"
   email            : "ally6952@naver.com"
   links:
